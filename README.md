@@ -1,4 +1,6 @@
 訪ねてくれて誠にありがとうございます。
+# 0. ポートフォリオはこちらになります。
+[ポートフォリオ](https://www.notion.so/aivyss/Developer-Portfolio-4d6e6fbba0a14f36b33ecf27c8c308a1)
 
 # 1. どんな人？
 ## 1.1.  個人情報
