@@ -23,7 +23,10 @@
 - Numpy, Pandas, Keras, Tensorflow
 
 # 3. プロジェクト
-- Transfer Matrix Simulator
-- Wedding Information
-- CanVus
-- StudyWise
+- [Transfer Matrix Simulator][https://www.scopus.com/authid/detail.uri?authorId=56508618900]
+- [Wedding Information][https://github.com/Aivyss/Wedding-Information]
+- [CanVus][https://github.com/Aivyss/CanVus]
+- StudyWise(進行中)
+
+# 4. Wiki
+- [テックノート][https://www.notion.so/aivyss/Tech-Note-f39f00776c3c4347a9cea3e4d680269d]
