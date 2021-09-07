@@ -5,10 +5,12 @@
  </p>
 
 **<h3 align="center">⚙️ Frameworks I use ⚙️</h3>**
+
 <p align="center">
     <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=React&logoColor=61dafb" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Redux-7046B2?style=flat-square&logo=Redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Recoil-F2A622?style=flat-square&logo=Recoil&logoColor=61dafb" />
     <img src="https://img.shields.io/badge/ReactRouter-61dafb?style=flat-square&logo=ReactRouter&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB43D?style=flat-square&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/jQuery-0863A3?style=flat-square&logo=jQuery&logoColor=white" />
@@ -17,16 +19,18 @@
     <img src="https://img.shields.io/badge/Pandas-120750?style=flat-square&logo=Pandas&logoColor=white" />
 </p>
 
-
 **<h3 align="center">💾 Databases I use 💾</h3>**
+
 <p align="center">
     <img src="https://img.shields.io/badge/OracleDB-D91B1E?style=flat-square&logo=Oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=MySQL&logoColor=white" />
 </p>
 
 **<h3 align="center">💻 Programing languages I use 💻</h3>**
+
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-2F72BC?style=flat-square&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> 
@@ -38,6 +42,11 @@
 
 <h3 align="center">🛠️ Tools I use 🛠️</h3>
 <p align="center">
+    <img src="https://img.shields.io/badge/ESLint-472FB9?style=flat-square&logo=ESLint&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Prettier-192932?style=flat-square&logo=Prettier&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Eclipse-2A2051?style=flat-square&logo=Eclipse&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/PyCharm-20CD86?style=flat-square&logo=PyCharm&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /> 
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /> 
