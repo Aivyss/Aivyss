@@ -8,6 +8,8 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=React&logoColor=61dafb" />
+    <img src="https://img.shields.io/badge/expressJS-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Redux-7046B2?style=flat-square&logo=Redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Recoil-F2A622?style=flat-square&logo=Recoil&logoColor=61dafb" />
@@ -17,6 +19,7 @@
     <img src="https://img.shields.io/badge/Mybatis-C90000?style=flat-square&logo=Mybatis&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-F28701?style=flat-square&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/Pandas-120750?style=flat-square&logo=Pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
 </p>
 
 **<h3 align="center">💾 Databases I use 💾</h3>**
@@ -24,6 +27,12 @@
 <p align="center">
     <img src="https://img.shields.io/badge/OracleDB-D91B1E?style=flat-square&logo=Oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=MySQL&logoColor=white" />
+</p>
+
+**<h3 align="center">💻 Tech 💻</h3>**
+
+<p align="center">
+    <img src="https://img.shields.io/badge/JWT-da2e13?style=flat-square&logo=JSON Web Tokens&logoColor=white" />
 </p>
 
 **<h3 align="center">💻 Programing languages I use 💻</h3>**
@@ -37,6 +46,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivyss" />
 </p>
+
+<br>
 
 <br>
 
