@@ -8,6 +8,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=React&logoColor=61dafb" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
     <img src="https://img.shields.io/badge/expressJS-000000?style=flat-square&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" /> 
@@ -27,6 +28,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/OracleDB-D91B1E?style=flat-square&logo=Oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeORM-E0234E?style=flat-square&logo=TypeORM&logoColor=white" />
 </p>
 
 **<h3 align="center">💻 Tech 💻</h3>**
@@ -53,6 +55,8 @@
 
 <h3 align="center">🛠️ Tools I use 🛠️</h3>
 <p align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" /> 
     <img src="https://img.shields.io/badge/ESLint-472FB9?style=flat-square&logo=ESLint&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Prettier-192932?style=flat-square&logo=Prettier&logoColor=white" /> 
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" /> 
@@ -62,3 +66,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /> 
 </p>
+
+**<h3 align="center">💻 Ongoing Project 💻</h3>**
+https://github.com/Aivyss/Aiko <br/>
+https://github.com/Aivyss/tango <br/>
+
+**<h3 align="center">💻 Ongoing Opensource 💻</h3>**
+https://www.npmjs.com/package/web-snippets<br/>
+https://www.npmjs.com/package/pbkdf2-pw<br/>
