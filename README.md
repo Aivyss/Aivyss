@@ -5,7 +5,8 @@
 </p>
 
 **<h3 align="center">⚙️ Job Position ⚙️</h3>**
-Backend Developer in CRSCube <br> (Solution Development for Clinical Trial)
+<p align="center">
+Backend Developer in CRSCube <br> (Solution Development for Clinical Trial)</p>
 
 
 
@@ -37,8 +38,9 @@ Backend Developer in CRSCube <br> (Solution Development for Clinical Trial)
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/TypeScript-2F72BC?style=flat-square&logo=TypeScript&logoColor=white" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivyss" />
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivyss" /></p>
 
 <br>
 
