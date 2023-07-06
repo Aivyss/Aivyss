@@ -1,7 +1,7 @@
 **<h1 align="center">Hi 👋, I'm Han Lee</h1>**
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aivyss" />
+
 </p>
 
 **<h3 align="center">⚙️ Job Position ⚙️</h3>**
