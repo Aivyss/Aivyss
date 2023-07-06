@@ -6,7 +6,8 @@
 
 **<h3 align="center">⚙️ Job Position ⚙️</h3>**
 <p align="center">
-Backend Developer in CRSCube <br> (Solution Development for Clinical Trial)</p>
+Backend Developer
+</p>
 
 
 
