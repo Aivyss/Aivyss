@@ -1,13 +1,21 @@
 **<h1 align="center">Hi 👋, I'm Han Lee</h1>**
+<p align="center">email: hklee6417@gmail.com</p>
+<p align="center">company: Ebisol</p>
+<p align="center">location: Tokyo</p>
+<p align="center">Nation: South Korea</p>
 
 <p align="center">
 
 </p>
 
-**<h3 align="center">⚙️ Job Position ⚙️</h3>**
+**<h3 align="center">⚙️ Job Description ⚙️</h3>**
 <p align="center">
-Backend Developer
+Backend Developer (main)
 </p>
+<p align="center">
+Android Developer (sub)
+</p>
+
 
 
 
@@ -35,12 +43,25 @@ Backend Developer
 **<h3 align="center">💻 Programing languages 💻</h3>**
 
 <p align="center">
+<img src="https://img.shields.io/badge/Go-4285F4?style=flat-square&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Kotlin-a15bc9?style=flat-square&logo=kotlin&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/TypeScript-2F72BC?style=flat-square&logo=TypeScript&logoColor=white" />
 </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivyss&exclude_repo=Seoul_air_quality_prediction,CodingTest-Node,practice2-of-React,practice1_of_react,react_practice_movie_app,CanVus" /></p>
+
+**<h3 align="center">Projects</h3>**
+<p align="center">
+    <ul align="center">
+        <li>cubePRO</li>
+        <li>cubeCTMS</li>
+        <li>MediCLEO</li>
+        <li>cubeConsent</li>
+        <li>Blayn POSレジ（セルフレジ）</li>
+        <li>Ebica</li>
+    </ul>
+</p>
 
 
 <br>
