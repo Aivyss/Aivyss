@@ -40,7 +40,7 @@ I started my development work with Java and Kotlin and am currently working with
 | wrapper-types | https://github.com/Aivyss/wrapper-types |
 | AssertGo | https://github.com/Aivyss/AssertGo |
 
-I welcome any input or assistance on my development projects at any time. Some may not receive additional updates until the next feature is fully conceptualized.# Skills Sheet
+I welcome any input or assistance on my development projects at any time. Some may not receive additional updates until the next feature is fully conceptualized.
 
 # Skills sheet
 
