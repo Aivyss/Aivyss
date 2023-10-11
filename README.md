@@ -1,81 +1,97 @@
-**<h1 align="center">Hi 👋, I'm Han Lee</h1>**
-<p align="center">email: hklee6417@gmail.com</p>
-<p align="center">company: Ebisol</p>
-<p align="center">location: Tokyo</p>
-<p align="center">Nation: South Korea</p>
+# Hello!
 
-<p align="center">
+I work primarily as a backend developer in web application development!
 
-</p>
+| Year | Position | Details |
+| --- | --- | --- |
+| 2021 | -   | Learning programming and web development basics |
+| January 2022 | CRScube Inc. | Backend Application Developer |
+| April 2023 | Blayn Inc. | Android Application Developer |
+| September 2023 | Ebisol Inc. | Backend Application Developer |
 
-**<h3 align="center">⚙️ Job Description ⚙️</h3>**
-<p align="center">
-Backend Developer (main)
-</p>
-<p align="center">
-Android Developer (sub)
-</p>
+I started my practical development work in Seoul, South Korea, and have been working in Tokyo, Japan since 2023.
 
+Currently, I use GitHub for both company development projects and personal projects.
 
+- Email: [hklee6417@gmail.com](mailto:hklee6417@gmail.com)
+  
+- Social Network: Nothing
+  
 
+# Projects I've been a part of
 
-**<h3 align="center">⚙️ Frameworks I use ⚙️</h3>**
+| Year | Company | Project (or Service) Name | Details |
+| --- | --- | --- | --- |
+| January 2022 | CRScube Inc. | cubePRO | API development and maintenance<br>(Java, Spring, Oracle, AWS) |
+| April 2023 | CRScube Inc. | cubeCTMS | API development and maintenance<br>(Java, Spring, Oracle, AWS) |
+| May 2023 | CRScube Inc. | CLEO | API development and maintenance<br>(Java, Spring Boot, Postgresql, AWS) |
+| November 2023 | CRScube Inc. | cubeConsent | API development and maintenance<br>(Kotlin, Spring Boot, Postgresql, AWS) |
+| April 2023 | Blayn Inc. | Blayn POS Register | Self-register development and maintenance<br>(Kotlin, Android) |
+| September 2023 | Ebisol Inc. | ebica | API development and maintenance<br>(Golang, AWS) |
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Spring-6DB43D?style=flat-square&logo=Spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/JPA(Hibernate)-4d4740?style=flat-square&logo=Hibernate&logoColor=white" />
-    <img src="https://img.shields.io/badge/QueryDSL-096682?style=flat-square&logo=querydsl&logoColor=white" />
-    <img src="https://img.shields.io/badge/Mybatis-C90000?style=flat-square&logo=Mybatis&logoColor=white" />
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
-    <img src="https://img.shields.io/badge/expressJS-000000?style=flat-square&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=React&logoColor=61dafb" />
-    <img src="https://img.shields.io/badge/jQuery-0863A3?style=flat-square&logo=jQuery&logoColor=white" />
-</p>
+I started my development work with Java and Kotlin and am currently working with Golang.
 
-**<h3 align="center">💾 Databases 💾</h3>**
+# Personal Open Source Projects
 
-<p align="center">
-    <img src="https://img.shields.io/badge/PostgreSQL-0482d6?style=flat-square&logo=PostgreSQL&logoColor=white" />
-    <img src="https://img.shields.io/badge/OracleDB-D91B1E?style=flat-square&logo=Oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=MySQL&logoColor=white" />
-</p>
+| Repository Name | URL |
+| --- | --- |
+| eventx | https://github.com/Aivyss/eventx |
+| sql-mapper | https://github.com/Aivyss/sql-mapper |
+| wrapper-types | https://github.com/Aivyss/wrapper-types |
+| AssertGo | https://github.com/Aivyss/AssertGo |
 
-**<h3 align="center">💻 Programing languages 💻</h3>**
+I welcome any input or assistance on my development projects at any time. Some may not receive additional updates until the next feature is fully conceptualized.# Skills Sheet
 
-<p align="center">
-<img src="https://img.shields.io/badge/Go-4285F4?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-a15bc9?style=flat-square&logo=kotlin&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/TypeScript-2F72BC?style=flat-square&logo=TypeScript&logoColor=white" />
-</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivyss&exclude_repo=Seoul_air_quality_prediction,CodingTest-Node,practice2-of-React,practice1_of_react,react_practice_movie_app,CanVus" /></p>
+# Skills sheet
 
-**<h3 align="center">Projects</h3>**
-<p align="center">
-    <ul align="center">
-        <li>cubePRO</li>
-        <li>cubeCTMS</li>
-        <li>MediCLEO</li>
-        <li>cubeConsent</li>
-        <li>Blayn POSレジ（セルフレジ）</li>
-        <li>Ebica</li>
-    </ul>
-</p>
+## Programming Languages
 
+| Category | Skill | Notes |
+| --- | --- | --- |
+| Language | Golang | Currently in use for work |
+| Language | Kotlin | Used for server and Android development |
+| Language | Java | Used for server development |
+| Language | Typescript | Personal projects and self-study |
+| Language | Python | Coding interviews and self-study |
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivyss&exclude_repo=Seoul_air_quality_prediction,CodingTest-Node,practice2-of-React,practice1_of_react,react_practice_movie_app,CanVus" />
 
-<br>
+## Databases
 
-<h3 align="center">🛠️ Tools 🛠️</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Confluence-0759e6?style=flat-square&logo=Confluence&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Jira-0759e6?style=flat-square&logo=Jira&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Slack-FF6C37?style=flat-square&logo=Slack&logoColor=white" /> 
+| Category | Skill | Notes |
+| --- | --- | --- |
+| RDS | Postgresql | Currently in use for work |
+| RDS | Oracle | -   |
+| RDS | MySQL | -   |
+| RDS | SQLite | Used for Android development |
+| Cache | Redis | Caching |
 
-</p>
+## Frameworks
+
+| Category | Skill | Notes |
+| --- | --- | --- |
+| Framework | Spring, Spring Boot | -   |
+| Framework | JPA, Hibernate | -   |
+| Framework | QueryDSL | -   |
+| Framework | Echo | -   |
+| Framework | MyBatis | -   |
+
+## Infrastructure
+
+| Category | Skill | Notes |
+| --- | --- | --- |
+| Infra | AWS | -   |
+| Infra | Terraform | Learning by doing |
+| Infra | Docker | -   |
+| Infra | Docker Compose | Learning by doing |
+
+## Others
+
+| Category | Skill | Notes |
+| --- | --- | --- |
+| etc. | Confluence | -   |
+| etc. | Jira | -   |
+| etc. | Backlog | -   |
+| etc. | Git, Github, Gitlab | -   |
+| etc. | Slack | -   |
+| etc. | Postman | -   |
