@@ -33,12 +33,13 @@ I started my development work with Java and Kotlin and am currently working with
 
 # Personal Open Source Projects
 
-| Repository Name | URL |
-| --- | --- |
-| eventx | https://github.com/Aivyss/eventx |
-| sql-mapper | https://github.com/Aivyss/sql-mapper |
-| wrapper-types | https://github.com/Aivyss/wrapper-types |
-| AssertGo | https://github.com/Aivyss/AssertGo |
+| Repository Name | URL | Latest Version |
+| --- | --- | --- |
+| eventx | https://github.com/Aivyss/eventx | v1.3.1 |
+| jsonx | https://github.com/Aivyss/jsonx | v1.0.0 |
+| typex | https://github.com/Aivyss/typex | v1.0.3 |
+| sql-mapper | https://github.com/Aivyss/sql-mapper | v1.1.2 |
+| AssertGo | https://github.com/Aivyss/AssertGo | -   |
 
 I welcome any input or assistance on my development projects at any time. Some may not receive additional updates until the next feature is fully conceptualized.
 
@@ -53,8 +54,6 @@ I welcome any input or assistance on my development projects at any time. Some m
 | Language | Java | Used for server development |
 | Language | Typescript | Personal projects and self-study |
 | Language | Python | Coding interviews and self-study |
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivyss&exclude_repo=Seoul_air_quality_prediction,CodingTest-Node,practice2-of-React,practice1_of_react,react_practice_movie_app,CanVus" />
 
 ## Databases
 
