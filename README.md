@@ -55,6 +55,8 @@ I welcome any input or assistance on my development projects at any time. Some m
 | Language | Typescript | Personal projects and self-study |
 | Language | Python | Coding interviews and self-study |
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aivyss&exclude_repo=Seoul_air_quality_prediction,CodingTest-Node,practice2-of-React,practice1_of_react,react_practice_movie_app,CanVus" />
+
 ## Databases
 
 | Category | Skill | Notes |
