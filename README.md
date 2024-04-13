@@ -86,6 +86,9 @@ I welcome any input or assistance on my development projects at any time. Some m
 | Infra | Docker | -   |
 | Infra | Docker Compose | Learning by doing |
 
+![aws-certified-solutions-architect-associate (1)](https://github.com/Aivyss/Aivyss/assets/64432366/6e3d507a-cc5d-41c0-ad39-6fde88f4ddbf)
+<br> https://www.credly.com/badges/ae3b7f11-46dc-436a-bafb-200ca11f5919/public_url
+
 ## Others
 
 | Category | Skill | Notes |
