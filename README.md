@@ -8,6 +8,7 @@ I work primarily as a backend developer in web application development!
 | January 2022 | CRScube Inc. | Backend Application Developer |
 | April 2023 | Blayn Inc. | Android Application Developer |
 | September 2023 | Ebisol Inc. | Backend Application Developer |
+| August 2025 | FLECT co., Ltd | Cloud Engineer |
 
 I started my practical development work in Seoul, South Korea, and have been working in Tokyo, Japan since 2023.
 
@@ -16,8 +17,16 @@ Currently, I use GitHub for both company development projects and personal proje
 - Email: [hklee6417@gmail.com](mailto:hklee6417@gmail.com)
   
 - Social Network: Nothing
-  
 
+## Certifications
+### AWS
+![aws-certified-solutions-architect-associate (1)](https://github.com/Aivyss/Aivyss/assets/64432366/6e3d507a-cc5d-41c0-ad39-6fde88f4ddbf)
+[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ae3b7f11-46dc-436a-bafb-200ca11f5919/public_url)
+
+
+### MuleSoft (Salesforce)
+<img width="120" height="120" alt="2025-03_Badge_SF-Certified_MuleSoft-Developer_500x490px" src="https://github.com/user-attachments/assets/01c2c59b-6c81-4375-a3c0-39e195d2635e" /> [Salesforce Certified MuleSoft Developer](https://www.salesforce.com/trailblazer/jfx0eb23jgk7a8ftnr)
+  
 # Projects I've been a part of
 
 | Year | Company | Project (or Service) Name | Details |
@@ -31,25 +40,13 @@ Currently, I use GitHub for both company development projects and personal proje
 
 I started my development work with Java and Kotlin and am currently working with Golang.
 
-# Personal Open Source Projects
-
-| Repository Name | URL | Latest Version |
-| --- | --- | --- |
-| eventx | https://github.com/Aivyss/eventx | v1.3.1 |
-| jsonx | https://github.com/Aivyss/jsonx | v1.0.0 |
-| typex | https://github.com/Aivyss/typex | v1.0.3 |
-| sql-mapper | https://github.com/Aivyss/sql-mapper | v1.1.2 |
-| AssertGo | https://github.com/Aivyss/AssertGo | -   |
-
-I welcome any input or assistance on my development projects at any time. Some may not receive additional updates until the next feature is fully conceptualized.
-
 # Skills sheet
 
 ## Programming Languages
 
 | Category | Skill | Notes |
 | --- | --- | --- |
-| Language | Golang | Currently in use for work |
+| Language | Golang | - |
 | Language | Kotlin | Used for server and Android development |
 | Language | Java | Used for server development |
 | Language | Typescript | Personal projects and self-study |
@@ -82,12 +79,10 @@ I welcome any input or assistance on my development projects at any time. Some m
 | Category | Skill | Notes |
 | --- | --- | --- |
 | Infra | AWS | -   |
-| Infra | Terraform | Learning by doing |
+| Infra | Terraform | - |
 | Infra | Docker | -   |
-| Infra | Docker Compose | Learning by doing |
-
-![aws-certified-solutions-architect-associate (1)](https://github.com/Aivyss/Aivyss/assets/64432366/6e3d507a-cc5d-41c0-ad39-6fde88f4ddbf)
-<br> https://www.credly.com/badges/ae3b7f11-46dc-436a-bafb-200ca11f5919/public_url
+| Infra | Docker Compose | - |
+| Infra | MuleSoft | Learning by doing |
 
 ## Others
 
