@@ -14,7 +14,7 @@ I started my practical development work in Seoul, South Korea, and have been wor
 
 Currently, I use GitHub for both company development projects and personal projects.
 
-- Email: [hklee6417@gmail.com](mailto:hklee6417@gmail.com)
+- Email: [soto.footer058@simplelogin.fr](mailto:soto.footer058@simplelogin.fr)
   
 - Social Network: Nothing
 
